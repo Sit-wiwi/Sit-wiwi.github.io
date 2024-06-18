@@ -104,6 +104,7 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(97,70,170,1) 100%);
   font-size: .5625rem;
   position: relative;
   top: -1px;
+  color: #FFFF;
 }
 @media (min-width: 64em) {
   .rk-logo {
@@ -112,6 +113,7 @@ background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(97,70,170,1) 100%);
         -ms-flex: 1;
             flex: 1;
     text-align: left;
+    color: #FFFF;
   }
 }
 
